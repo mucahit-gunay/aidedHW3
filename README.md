@@ -1,5 +1,9 @@
 # Wikipedia RAG Assistant
 
+## Demo Video
+
+[Watch the demo on YouTube](https://youtu.be/9FQFkxkPSmg)
+
 A local, ChatGPT-style question-answering system about famous people and places. Built on Wikipedia data, ChromaDB vector search, and Ollama local LLMs. Runs entirely on localhost — no external APIs.
 
 ---
